@@ -19,4 +19,14 @@ dn = dc.sort_values('Volume (24h)', ascending = False).head(5)
 dn.to_csv('most_traded_pairs_turnover.csv')
 dm = dc.sort_values('Volume (24h)', ascending = True).head(5)
 dm.to_csv('least_traded_pair_turnover.csv')
+d10 = pd.DataFrame(d.Pair.value_counts())
+d11 = d10.rename(columns = {'Pair' : 'No_of_traded_pair'})
+d11.index.name = 'Pair'
+d11.head(10).to_html('most_traded_pairs_wrt_exchanges.html')
+d11.tail(10).to_html('least_traded_pairs_wrt_exchanges.html')
+d12 = pd.DataFrame(d.Source.value_counts())
+d13 = d12.rename(columns = {'Source' : 'No_of_traded_pair'})
+d13.index.name = 'Source'
+d13.head(10).to_csv('to10_exchanges_wrt_traded_pairs.csv')
+d13.tail(10).to_csv('bottom10_exchanges_wrt_traded_pairs.csv')
 
