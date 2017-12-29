@@ -1,0 +1,282 @@
+,industry_name
+0,Abrasives and Grinding Wheels
+1,Air-conditioners
+2,Aluminium
+3,Aluminium - Extrusions
+4,Aluminium - Sheets / Coils / Wires / Others
+5,Aluminium Chemicals
+6,Analytical Laboratory Equipment
+7,Auto Ancillaries - Axles / Shafts
+8,Auto Ancillaries - Batteries
+9,Auto Ancillaries - Brakes
+10,Auto Ancillaries - Clutches
+11,Auto Ancillaries - Electrical
+12,Auto Ancillaries - Engine Parts
+13,Auto Ancillaries - Friction Materials
+14,Auto Ancillaries - Gears
+15,Auto Ancillaries - Instruments
+16,Auto Ancillaries - Lamps
+17,Auto Ancillaries - Others
+18,Auto Ancillaries - Sheet Metal
+19,Auto Ancillaries - Shock Absorbers
+20,Auto Ancillaries - Springs
+21,Auto Ancillaries - Trading
+22,Auto Ancillaries - Wheels
+23,Automobiles - LCVs/HCVs
+24,Automobiles - Motorcycles / Mopeds
+25,Automobiles - Scooters and 3-Wheelers
+26,Automobiles - Tractors
+27,Automobiles - passenger cars
+28,Banks - Private Sector
+29,Banks - Public Sector
+30,Bearings - Large
+31,Bearings - Medium / Small
+32,Biotechnology
+33,Breweries
+34,Cables - Power - Large
+35,Cables - Power - Medium / Small
+36,Cables - Telephone
+37,Carbon Black
+38,Castings - Grey Iron
+39,Castings - Steel / Alloy
+40,Cement - Major - North India
+41,Cement - Major - South India
+42,Cement - Mini - North India
+43,Cement - Mini - South India
+44,Cement Products
+45,Ceramics - Sanitaryware / Others
+46,Ceramics - Tiles
+47,Chemicals - Alcohol-based
+48,Chemicals - Benzene-based
+49,Chemicals - Gelatine
+50,Chemicals - Inorganic - Large
+51,Chemicals - Inorganic - Medium / Small
+52,Chemicals - Maleic Anhydride / Phthalic Anhydride
+53,Chemicals - Organic - Large
+54,Chemicals - Organic - Medium / Small
+55,Chemicals - Pentaerythritol / Formaldehyde
+56,Chemicals - Speciality - Large
+57,Chemicals - Speciality - Medium / Small
+58,Chlor-Alkali
+59,Cigarettes
+60,Coffee
+61,Coke / Metalurgical Coke
+62,Compressors / Drilling Equipment
+63,Computers - Education
+64,Computers - Hardware - Large
+65,Computers - Hardware - Medium / Small
+66,Computers - Peripherals / Accessories
+67,Computers - Software - Converts
+68,Computers - Software - Large
+69,Computers - Software - Medium / Small
+70,Construction - Civil / Turnkey - Large
+71,Construction - Civil / Turnkey - Medium / Small
+72,Construction - Factories / Offices / Commercial
+73,Construction - Housing - Large
+74,Construction - Housing - Medium / Small
+75,Contraceptives / Protectives
+76,Couriers
+77,Cycles And Accessories
+78,Decoratives - Wood-based
+79,Detergents / Intermediates
+80,Diamond Cutting / Jewellery - Large
+81,Diamond Cutting / Jewellery - Medium / Small
+82,Distilleries
+83,Diversified - Large
+84,Diversified - Medium / Small
+85,Diversified - Mega
+86,Domestic Appliances - Cookers / Others
+87,Domestic Appliances - Fans
+88,Domestic Appliances - White Goods
+89,Dry Cells
+90,Dyes - Intermediate
+91,Dyes - Reactive / Direct
+92,Dyes And Pigments - Large
+93,Dyes And Pigments - Medium / Small
+94,Electric Equipment - General - Large
+95,Electric Equipment - General - Medium / Small
+96,Electric Equipment - Gensets / Turbines
+97,Electric Equipment - Switchgears/Relays/Circuits
+98,Electric Equipment - Transformers
+99,Electrodes - Graphites
+100,Electrodes - Welding Equipment
+101,Electronics - Hard Ferrites
+102,Electronics - Instrumentation And Process Control
+103,Electronics - Others
+104,Electronics - Picture Tubes - Colour
+105,Electronics - Power Devices / Equipment
+106,Electronics - TV / Audio / VCR / VCP
+107,Engineering - Heavy - General - Large
+108,Engineering - Heavy - General - Medium / Small
+109,Engineering - Heavy - Material Handling
+110,Engineering - Heavy - Plastic Machinery
+111,Engineering - Light - General - Medium / Small
+112,Engineering - Turnkey Services
+113,Engines
+114,Entertainment - Content Providers
+115,Entertainment - Electronic Media
+116,Fasteners
+117,Ferro Alloys
+118,Fertilizers - Nitrogenous / Phosphatic
+119,Fertilizers - Phosphatic - Single Super Phosphate
+120,Finance - Equipment - Leasing & Maintenance
+121,Finance - Housing - Large
+122,Finance - Housing - Medium / Small
+123,Finance - Investment / Others
+124,Finance - Large
+125,Finance - Leasing And Diversified
+126,Finance - Medium
+127,Finance - Small
+128,Finance - Term-Lending Institutions
+129,Fire - Protection Equipment
+130,Floriculture / Tissue Culture
+131,Food - Proccesing - Rice
+132,Food - Processing - Atta / Rava / Sooji
+133,Food - Processing - Egg Powder
+134,Food - Processing - Fruit Processing
+135,Food - Processing - Mushrooms
+136,Food - Processing - Others
+137,Food - Processing - Spices / Pickles
+138,Food And Dairy Products - Indian - Large
+139,Food And Dairy Products - Multinational
+140,Food and Dairy Products - Indian - Medium / Small
+141,Forgings - Large
+142,Forgings - Medium / Small
+143,Gas Distribution
+144,Glass - Containers / Others
+145,Glass - Sheet / Float
+146,Granite & Marble - Large
+147,Hatcheries
+148,Hospitals / Medical Services
+149,Hotels - Large
+150,Hotels - Medium
+151,Hotels - Resorts
+152,Hotels - Small
+153,Hydraulics
+154,IT Enabled Services / Business Process Outsourcing
+155,Industrial Explosives
+156,Industrial Gas
+157,LPG Bottling
+158,Laminates
+159,Leather / Synthetic Footware - Large
+160,Leather Chemicals
+161,Leather Products - Garments
+162,Leather Products - Integrated
+163,Leather Products - Others
+164,Lighting Systems
+165,Lubricants
+166,Machine Tools - Others
+167,Medical Accessories / Disposables
+168,Medical Equipment
+169,Metal - Copper / Copper Alloy Products
+170,Metal - Others
+171,Metal - Zinc
+172,Mining / Minerals
+173,Miscellaneous - Large
+174,Miscellaneous - Medium / Small
+175,Moulded Luggage
+176,Oil Drilling
+177,Oil Exploration / Allied Services
+178,Packaging - BOPP Film
+179,Packaging - Lamination / Processors - Large
+180,Packaging - Lamination / Processors - Medium/Small
+181,Packaging - Others
+182,Packaging - Plastic Containers
+183,Packaging - Polyester Film
+184,Packaging - Polysacks
+185,Paints / Varnishes
+186,Paper - Large
+187,Paper - Medium / Small
+188,Personal Care - Indian - Large
+189,Personal Care - Indian - Medium / Small
+190,Personal Care - Multinational
+191,Pesticides / Agrochemicals - Indian - Large
+192,Pesticides / Agrochemicals - Indian - Medium/Small
+193,Pesticides / Agrochemicals - Multinational
+194,Petrochemicals - Others
+195,Petrochemicals - Polymers - Large
+196,Petrochemicals - Polymers - Medium / Small
+197,Pharmaceuticals - I V Fluids
+198,Pharmaceuticals - Indian - Bulk Drugs
+199,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg
+200,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S
+201,Pharmaceuticals - Indian - Formulations
+202,Pharmaceuticals - Multinational
+203,Photographic And Allied Products
+204,Plastics - Bottles / Jars
+205,Plastics - Flooring
+206,Plastics - Furniture
+207,Plastics - Others
+208,Plastics - PU & PU leather
+209,Plastics - Pipes
+210,Plastics - Sheets
+211,Plastics - Thermoware
+212,Pollution Control Equipment
+213,Power Generation And Supply
+214,Printing & Stationery
+215,Pumps
+216,Recreation / Amusement Parks
+217,Refineries
+218,Refractories / Intermediates
+219,Retailing
+220,Rubber - Products
+221,Rubber - Retreading
+222,Rubber - Synthetic
+223,Securities/Commodities Trading Services
+224,Ship - Breaking / Repairing
+225,Shipping - Large
+226,Shipping - medium / small
+227,Soda Ash
+228,Solvent Extraction - Large
+229,Solvent Extraction - Medium / Small
+230,Steel - Large
+231,Steel - Medium / Small
+232,Steel - Pig Iron
+233,Steel - Rolling
+234,Steel - Seamless Tubes
+235,Steel - Sponge Iron
+236,Steel - Tubes / Pipes
+237,Steel - Wires
+238,Sugar - Integrated
+239,Sugar - Others
+240,Tea - Indian - Large
+241,Tea - Indian - Medium / Small
+242,Tea - Processing And Trading
+243,Telecommunications - Equipment - Large
+244,Telecommunications - Equipment - Medium / Small
+245,Telecommunications - Service Provider
+246,Textile machinery
+247,Textiles - Acrylic Fibre
+248,Textiles - Composite/Cotton/Blended/Fabric - LARGE
+249,Textiles - Composite/Cotton/Blended/Fabric - M/S
+250,Textiles - Cotton Yarn - 100% EOUs
+251,Textiles - Cotton Yarn - Open-Ended Spinning
+252,Textiles - Denim Fabric
+253,Textiles - Embroidery Fabric
+254,Textiles - Hosiery / Knitwear
+255,Textiles - Jute - Yarn / Products
+256,Textiles - Manmade - Nylon
+257,Textiles - Manmade - PFY / PSF - From Chips
+258,Textiles - Manmade - PFY/PSF - InHouse Poly Condsn
+259,Textiles - Manmade - Polypropylene Filament Yarn
+260,Textiles - Others
+261,Textiles - Processing
+262,Textiles - Rayon
+263,Textiles - Readymade Apparel
+264,Textiles - Silk
+265,Textiles - Spinning - Synthetic / Blended
+266,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg
+267,Textiles - Terry Towels
+268,Textiles - Texturising
+269,Textiles - Weaving
+270,Textiles - Worsted Fabric
+271,Trading - Large
+272,Trading - Medium / Small
+273,Transmisson Line Towers / Equipment
+274,Transport - Airlines
+275,Transport - Road
+276,Travel Agencies
+277,Tyres - Large
+278,Tyres - Medium / Small
+279,Vanaspati - Large
+280,Watches & Accessories
