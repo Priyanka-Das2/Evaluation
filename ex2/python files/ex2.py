@@ -27,6 +27,6 @@ d11.tail(10).to_html('least_traded_pairs_wrt_exchanges.html')
 d12 = pd.DataFrame(d.Source.value_counts())
 d13 = d12.rename(columns = {'Source' : 'No_of_traded_pair'})
 d13.index.name = 'Source'
-d13.head(10).to_csv('to10_exchanges_wrt_traded_pairs.csv')
+d13.head(10).to_csv('top10_exchanges_wrt_traded_pairs.csv')
 d13.tail(10).to_csv('bottom10_exchanges_wrt_traded_pairs.csv')
 
