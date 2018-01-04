@@ -5,20 +5,20 @@ d1 = d[['Source','Volume (24h)','Pair']]
 d2 = d1.groupby(['Source']).agg({'Volume (24h)': "sum"})
 d3 = d2.sort_values(by=['Volume (24h)'], ascending = False).head(10)
 
-d3.to_csv('largest_exchanges_wrt_turnover.csv')
+d3.to_html('largest_exchanges_wrt_turnover.html')
 d8 = d2.sort_values(by=['Volume (24h)'], ascending = True).head(10)
-d8.to_csv('cheapest_exchanges_wrt_turnover.csv')
+d8.to_html('cheapest_exchanges_wrt_turnover.html')
 d4 = d[['Pair','Price']]
 d5 = d4.groupby(['Pair']).agg({'Price': "mean"})
 d6 = d5.sort_values(by=['Price'], ascending = True).head(10)
-d6.to_csv('cheap_pairs_(price).csv')
+d6.to_html('cheap_pairs_(price).html')
 d7 = d5.sort_values(by=['Price'], ascending = False).head(10)
-d7.to_csv('expensive_pairs_(price).csv')
+d7.to_html('expensive_pairs_(price).html')
 dc = d.groupby('Pair').agg({'Volume (24h)':"sum"})
 dn = dc.sort_values('Volume (24h)', ascending = False).head(5)
-dn.to_csv('most_traded_pairs_turnover.csv')
+dn.to_html('most_traded_pairs_turnover.html')
 dm = dc.sort_values('Volume (24h)', ascending = True).head(5)
-dm.to_csv('least_traded_pair_turnover.csv')
+dm.to_html('least_traded_pair_turnover.html')
 d10 = pd.DataFrame(d.Pair.value_counts())
 d11 = d10.rename(columns = {'Pair' : 'No_of_traded_pair'})
 d11.index.name = 'Pair'
@@ -27,6 +27,6 @@ d11.tail(10).to_html('least_traded_pairs_wrt_exchanges.html')
 d12 = pd.DataFrame(d.Source.value_counts())
 d13 = d12.rename(columns = {'Source' : 'No_of_traded_pair'})
 d13.index.name = 'Source'
-d13.head(10).to_csv('top10_exchanges_wrt_traded_pairs.csv')
-d13.tail(10).to_csv('bottom10_exchanges_wrt_traded_pairs.csv')
-
+d13.head(10).to_html('top10_exchanges_wrt_traded_pairs.html')
+d13.tail(10).to_html('bottom10_exchanges_wrt_traded_pairs.html')
+ 
